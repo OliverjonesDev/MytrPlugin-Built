@@ -1,0 +1,15 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\Module.MytrEngineSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrCharacterBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrControllerBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrEngine.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrEngineSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrGameInstanceBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrGamemodeBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrGamestateBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrPawnBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrPlayerControllerBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\MytrEngineSubsystem\\MytrPlayerState.cpp.obj"
+	]
+}
